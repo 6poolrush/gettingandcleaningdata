@@ -1,8 +1,8 @@
-CODEBOOK
+###CODEBOOK
 
-Coursera course "Getting and Cleaning Data"
+##Coursera course "Getting and Cleaning Data"
 
-By: Jeremy N.
+#By: Jeremy N.
 
 
 
