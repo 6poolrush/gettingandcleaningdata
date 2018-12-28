@@ -1,8 +1,7 @@
-==================================================================
-README
+#README
 Coursera course "Getting and Cleaning Data"
 By: Jeremy N.
-==================================================================
+
 
 The goal of this course project are enumerated in the following ways:
 
