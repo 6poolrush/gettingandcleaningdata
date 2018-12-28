@@ -1,8 +1,10 @@
-==================================================================
 CODEBOOK
+
 Coursera course "Getting and Cleaning Data"
-By: Jeremy Nguyen
-==================================================================
+
+By: Jeremy N.
+
+
 
 DATASET						Description										Type
 
