@@ -42,3 +42,4 @@ The result is a data frame with 89 columns in total. (meaning 475 columns have b
 For question 5, we have created a new data frame called summary_means. It uses the aggregate function to group by SubjectID + Activity Label, and calculates the mean of all features (columns)
 grouped based on these criteria. Since we have 30 subjects and 6 activities, the result is a data frame with 180 observations.
 
+NOTE: to allow the code to run smoothlessly, make sure to set the working directory at the root of the folder, so at the same location where the run_analysis.R file lies.
